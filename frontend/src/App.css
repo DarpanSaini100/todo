@@ -1,0 +1,53 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  height: 100vh;
+  background:rgb(85, 74, 74);
+  
+}
+
+h1{
+  color:black;
+  font-size: 100px;
+}
+
+.form-control{
+  width: 75%;
+}
+
+.list{
+  list-style: none;
+  background:  rgba(255,255,255,0.397);
+  width: 60%;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+@media (max-width:300px){
+  h1{
+    font-size: 35px;
+  }
+  .btn-class{
+    width: 100%;
+    margin: 10px;
+  }
+  .list{
+    width: 100%;
+  }
+}
+@media (min-width:300px) and (max-width:992px){
+  h1{
+    font-size: 55px;
+  }
+  .btn-class{
+    width: 100%;
+    margin: 10px;
+  }
+  .list{
+    width: 100%;
+  }
+}

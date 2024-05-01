@@ -1,0 +1,20 @@
+Dear sir,
+
+I trust this note finds you well. Attached is my frontend and backend code for the mySQL to-do-list  Problem stement. Each element has been carefully structured as per the design specifications. I have included comments within the react as well as in node for clarity and easy understanding. Your feedback on the structure and overall user experience is highly appreciated.
+
+If you have any questions or suggestions, please don't hesitate to reach out. Thank you for your time and guidance.
+
+Best regards,
+[Darpan Saini]
+
+*****please install require pakages before running the project*************
+
+for front end 
+node-module
+axios 
+
+
+for backend
+
+ expess, cors, mysql, body-parser
+
